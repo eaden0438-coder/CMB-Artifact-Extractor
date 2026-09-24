@@ -2,7 +2,7 @@
 
 This repository executes a zero-parameter blind test on the Cosmic Microwave Background (CMB) power spectrum residuals. 
 
-Standard $\Lambda$ CDM cosmology relies on continuous fluid approximations, projecting a smooth damping tail at high multipole moments (*l* > 2500). This script tests the alternative hypothesis: the universe operates as a finite-state topological grid. By strictly injecting the a priori hardware constants derived in prior discrete geometry frameworks (Spatial Impedance $\xi \approx 1.4142$ and Volumetric Fragmentation $\mu \approx 0.08310$) with absolutely ZERO free fitting parameters, this protocol extracts the fundamental rendering artifacts (residual collapses) in the Planck high-*l* datasets.
+Standard $\Lambda$CDM cosmology relies on continuous fluid approximations, projecting a smooth damping tail at high multipole moments (*l* > 2000). This script tests the alternative hypothesis: the universe operates as a finite-state topological grid. By strictly injecting the a priori hardware constants derived in prior discrete geometry frameworks (Spatial Impedance $\xi = \sqrt{2}$ and Volumetric Fragmentation $\mu \approx 0.08310$) with absolutely ZERO free fitting parameters, this protocol extracts the fundamental rendering artifacts (residual collapses) in the Planck high-*l* datasets.
 
 **Key Features:**
 * Strict Zero-Parameter Blind Test (No curve fitting or phenomenological adjustments).
